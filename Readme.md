@@ -20,7 +20,7 @@ It helped me practice layout design, alignment, and basic styling.
 
 ## Links
 
-- Live Site:  
+- Live Site: https://muskan555soni-ship-it.github.io/qr-code-card/ 
 - Solution: 
 
 ---
