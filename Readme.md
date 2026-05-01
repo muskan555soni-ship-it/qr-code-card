@@ -21,7 +21,7 @@ It helped me practice layout design, alignment, and basic styling.
 ## Links
 
 - Live Site: https://muskan555soni-ship-it.github.io/qr-code-card/ 
-- Solution: 
+- Solution: https://github.com/muskan555soni-ship-it/qr-code-card
 
 ---
 
