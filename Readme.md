@@ -18,10 +18,10 @@ It helped me practice layout design, alignment, and basic styling.
 
 ---
 
-## Links
+## Live Demo
 
-- Live Site: https://muskan555soni-ship-it.github.io/qr-code-card/ 
-- Solution: https://github.com/muskan555soni-ship-it/qr-code-card
+- [View Live Project](https://muskan-k-soni.github.io/qr-code-card/)
+- [View Source Code on GitHub](https://github.com/Muskan-K-Soni/qr-code-card)
 
 ---
 
@@ -46,7 +46,7 @@ It helped me practice layout design, alignment, and basic styling.
 ##  Author
 
 - Name: Muskan Kumari  
-- GitHub: [https://github.com/muskan555soni-ship-it]  
+- GitHub: [https://github.com/Muskan-K-Soni]  
 
 ---
 
